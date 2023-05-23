@@ -1,3 +1,3 @@
 # Brinda_
-[![Brinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrindaPuri)](https://github.com/anuraghazra/github-readme-stats)
+[![Brinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrindaPuri&count_private=true))](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrindaPuri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
